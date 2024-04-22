@@ -4,4 +4,8 @@ class PagesController < ApplicationController
   end
   def HaydenBradley
   end
+
+  def kxvn0
+  end
+
 end
