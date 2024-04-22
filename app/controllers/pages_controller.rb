@@ -5,6 +5,9 @@ class PagesController < ApplicationController
   def HaydenBradley
   end
 
+  def Jacob-Bartlett
+  end
+  
   def kxvn0
   end
 
