@@ -4,4 +4,8 @@ class PagesController < ApplicationController
 
   def Jacob-Bartlett
   end
+  
+  def kxvn0
+  end
+
 end
