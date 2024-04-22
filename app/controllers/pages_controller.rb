@@ -1,5 +1,8 @@
 class PagesController < ApplicationController
   def index
+
+  end
+  def HaydenBradley
   end
 
   def Jacob-Bartlett
